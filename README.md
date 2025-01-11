@@ -1,6 +1,6 @@
 # Level 1 Tasks
 
-This repository contains solutions for the **Level 1 tasks** assigned during the Python Development Internship at Cognifyz Technologies. Each task is implemented in Python and includes a description of the task, code implementation, and sample usage.
+This repository contains solutions for the **Level 1 tasks** assigned during the Python Development Internship at Cognifyz Technologies. Each task is implemented in Python and includes a description of the task and code implementation.
 
 ---
 
