@@ -1,6 +1,6 @@
 # Level 2 Tasks - Python Development Internship  
 
-This repository contains solutions for the **Level 2 tasks** assigned during the Python Development Internship at Cognifyz Technologies. Each task is implemented in Python and includes a description of the task, code implementation, and sample usage.
+This repository contains solutions for the **Level 2 tasks** assigned during the Python Development Internship at Cognifyz Technologies. Each task is implemented in Python and includes a description of the task and sample usage.
 
 ---
 
@@ -73,6 +73,12 @@ Write a Python program that:
 - Reads and processes the file content, handling potential errors (e.g., file not found).
 - Cleans the text of punctuation before counting words.
 - Displays word counts in alphabetical order for easy interpretation.
+
+#### Results
+
+![Screenshot 2025-01-12 212511](https://github.com/user-attachments/assets/bc7eca43-575e-421b-9e9c-3b6be775cef4)
+
+![Screenshot 2025-01-12 212520](https://github.com/user-attachments/assets/165ffac5-4b52-44b7-b4f9-ff075fc48816)
 
 ---
 
