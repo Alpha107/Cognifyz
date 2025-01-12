@@ -1,4 +1,4 @@
-# Level 2 Tasks - Python Development Internship  
+# Level 2 Tasks
 
 This repository contains solutions for the **Level 2 tasks** assigned during the Python Development Internship at Cognifyz Technologies. Each task is implemented in Python and includes a description of the task and sample usage.
 
