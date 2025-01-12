@@ -1,6 +1,10 @@
-# Cognify
+# Cognifyz Internship
 
-Welcome to **Cognify**, a comprehensive repository designed as part of an internship program by Cognifyz Technologies. This repository contains tasks ranging from beginner-friendly Python challenges to advanced data science projects.
+---
+
+**Hello Everyone,** 
+
+Welcome to **Cognifyz Internship Tasks**, a meticulously crafted repository developed as part of my online internship program for Cognifyz Technologies. This repository encompasses a diverse array of tasks, ranging from foundational Python exercises to sophisticated data science projects, designed to develop technical expertise and problem-solving skills.
 
 ---
 
@@ -17,7 +21,7 @@ Welcome to **Cognify**, a comprehensive repository designed as part of an intern
 
 ## About Cognifyz Technologies
 
-Cognifyz Technologies is a leading tech company specializing in data science, artificial intelligence (AI), machine learning (ML), and data analytics tools. Our mission is to deliver innovative solutions to meet the ever-evolving demands of businesses.
+Cognifyz Technologies is a leading tech company specializing in data science, artificial intelligence (AI), machine learning (ML), and data analytics tools. Their mission is to deliver innovative solutions to meet the ever-evolving demands of businesses.
 
 Explore more at: [Cognifyz Official Website](https://cognifyz.com/)
 
@@ -35,7 +39,7 @@ Explore more at: [Cognifyz Official Website](https://cognifyz.com/)
 
 ## Task Overview
 
-The internship program consists of three levels. Each level is designed to enhance your skills progressively.
+The internship program consists of three levels. Each level is designed to enhance skills progressively.
 
 ### Level 1 Tasks
 
